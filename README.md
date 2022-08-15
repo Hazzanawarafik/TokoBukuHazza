@@ -17,3 +17,12 @@ admin <br>
 Level Karyawan: <br>
 karyawan1 <br>
 123456 <br>
+
+https://tokobukuhazza.000webhostapp.com/
+Level Admin: <br>
+admin <br>
+123456 <br>
+
+Level Karyawan: <br>
+karyawan <br>
+123456 <br>
